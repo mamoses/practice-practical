@@ -1,0 +1,58 @@
+.boxContainer {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.backgroundColor {
+    background-color: antiquewhite;
+
+}
+.box {
+ background-color: white;
+    width: 500px;
+    height: 500px;
+}
+
+h1 {
+    text-align: center;
+    color: coral;
+}
+
+.nameContainer {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+
+}
+#username {
+    width: 400px;
+    height: 25px;
+}
+
+
+.quantityContainer {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+
+}
+#quantity {
+    width: 400px;
+    height: 25px;
+}
+
+#order {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+
+}
+
+.submitButton {
+    background-color: coral;
+    color: white;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+
+}
